@@ -1,5 +1,5 @@
 ## 👋 Hi there 
-I'm Aleks. I am a frontend developer with a background as a ux/ui designer
+I'm Aleks. I am a frontend developer with a background as a UI designer and UX researcher
 
 ## My skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
