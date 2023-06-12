@@ -1,4 +1,4 @@
-## 👋 Hi there 
+## Hi there 👋
 I'm Aleks. I am a frontend developer with a background as a UI designer and UX researcher
 
 ## Contacts
