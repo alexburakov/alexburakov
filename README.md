@@ -24,7 +24,3 @@ I'm Aleks. I am a frontend developer with a background as a UI designer and UX r
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## My personal project
-
-### [VinylBox app](https://github.com/alexburakov/vinyl-collection)
-[Vinylbox](https://www.vinylbox.burakov.pro/my-collection) - my pet project that I created to practice typical tasks of a frontend developer using the React library. The application allows you to securely and conveniently store your digital collection of vinyl records
