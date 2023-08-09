@@ -1,26 +1,71 @@
-## Hi there 👋
-I'm Aleks. I am a frontend developer with a background as a UI designer and UX researcher
+# Hi there 👋
+I'm Aleks. I am a Frontend developer with a background as a UI designer.
 
-#### Contacts
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aburakov)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allexburakov@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandr-burakov-b8944625b/)
 
+```js
+export default {
 
-## My skills
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  languages: [
+    '🇷🇺 Russian', 
+    '🌸 JavaScript',
+    '🇬🇧 English'
+  ],
 
+  skills: {
+    '🧠 JS': [
+      'JavaScript (ES6+)',
+      'TS'
+    ],
+    '🎨 UI': [
+      'HTML/CSS',
+      'БЭМ',
+      'SASS',
+      'Styled components',
+      'MUI'
+    ],
+    '🧰 Framework': [
+      'React',
+      'Redux(thunk, async thunk)',
+      'Toolkit',
+      'Router',
+      'React Forms', 
+      'NextJS'
+    ],
+    '🛜 Web': [
+      'Fetch',
+      'Axios',
+      'WebSocket'
+    ],
+    '⚙️ Tools': [
+      'Git',
+      'Webpack',
+      'Vite',
+      'Eslint',
+      'CI/CD',
+      'Storybook',
+      'Bitbucket'  
+    ],
+    '🗺️ Design': [
+      'Figma',
+      'Adobe tools',
+      'Protopie',
+      'UI-kit',
+      'Design system',
+      'CJM',
+      'JTBD'
+    ]
+  },  
+
+  experience: {
+    '💪 Frontend developer': '2+ years',
+    '🏴‍☠️ UX/UI Design': '9+ years'
+  },
+
+  education: '🎓 BS, Applied Computer Science'
+
+};
+
+```
