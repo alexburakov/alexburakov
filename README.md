@@ -16,46 +16,22 @@ export default {
 
   skills: {
     '🧠 JS': [
-      'JavaScript (ES6+)',
-      'TS'
+      'JavaScript (ES6+)', 'TS'
     ],
     '🎨 UI': [
-      'HTML/CSS',
-      'БЭМ',
-      'SASS',
-      'Styled components',
-      'MUI'
+      'HTML/CSS', 'БЭМ', 'SASS', 'Styled components', 'MUI'
     ],
     '🧰 Framework': [
-      'React',
-      'Redux(thunk, async thunk)',
-      'Toolkit',
-      'Router',
-      'React Forms', 
-      'NextJS'
+      'React', 'Redux(thunk, async thunk)', 'Toolkit', 'Router', 'React Forms', 'NextJS'
     ],
     '🛜 Web': [
-      'Fetch',
-      'Axios',
-      'WebSocket'
+      'Fetch', 'Axios', 'WebSocket'
     ],
     '⚙️ Tools': [
-      'Git',
-      'Webpack',
-      'Vite',
-      'Eslint',
-      'CI/CD',
-      'Storybook',
-      'Bitbucket'  
+      'Git', 'Webpack', 'Vite', 'Eslint', 'CI/CD', 'Storybook', 'Bitbucket'  
     ],
     '🗺️ Design': [
-      'Figma',
-      'Adobe tools',
-      'Protopie',
-      'UI-kit',
-      'Design system',
-      'CJM',
-      'JTBD'
+      'Figma', 'Adobe tools', 'Protopie', 'UI-kit', 'Design system', 'CJM', 'JTBD'
     ]
   },  
 
