@@ -7,9 +7,9 @@ I'm Aleks. I am a Frontend developer with a background as a UI designer.
 ```js
 export default {
 
-  languages: [
-    '🇷🇺 Russian', 
+  languages: [ 
     '🌸 JavaScript',
+    '🇷🇺 Russian',
     '🇬🇧 English'
   ],
 
@@ -18,16 +18,16 @@ export default {
       'JavaScript (ES6+)', 'TS'
     ],
     '🎨 UI': [
-      'HTML/CSS', 'БЭМ', 'SASS', 'Styled components', 'MUI'
+      'HTML/CSS', 'SASS', 'Styled components', 'MUI'
     ],
     '🧰 Framework': [
-      'React', 'Redux(thunk, async thunk)', 'Toolkit', 'Router', 'React Forms', 'NextJS'
+      'React', 'Redux(thunk, async thunk, toolkit)', 'Router', 'React Hook Form', 'NextJS'
     ],
     '🛜 Web': [
       'Fetch', 'Axios', 'WebSocket'
     ],
     '⚙️ Tools': [
-      'Git', 'Webpack', 'Vite', 'Eslint', 'CI/CD', 'Storybook', 'Bitbucket'  
+      'Git', 'Webpack', 'Vite', 'Eslint', 'Storybook', 'Bitbucket', 'Jira'  
     ],
     '🗺️ Design': [
       'Figma', 'Adobe tools', 'Protopie', 'UI-kit', 'Design system', 'CJM', 'JTBD'
@@ -35,12 +35,11 @@ export default {
   },  
 
   experience: {
-    '💪 Frontend developer': '2+ years',
+    '💪 Frontend developer': '1+ years',
     '🏴‍☠️ UX/UI Design': '9+ years'
   },
 
   education: '🎓 BS, Applied Computer Science'
 
 };
-
 ```
