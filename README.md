@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Aleks. I am a Frontend developer with a background as a UI designer.
+I'm Aleks. I am a Frontend developer with a background as a UX/UI designer.
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aburakov)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allexburakov@gmail.com)
