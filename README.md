@@ -6,30 +6,18 @@
 export default {
 
   languages: [ 
-    '🌸 JavaScript',
+    '🪩 JavaScript',
     '🇷🇺 Russian',
     '🇬🇧 English'
   ],
 
   skills: {
-    '🧠 JS': [
-      'JavaScript (ES6+)', 'TS'
-    ],
-    '🎨 UI': [
-      'HTML/CSS', 'SASS', 'Styled components', 'MUI'
-    ],
-    '🧰 Framework': [
-      'React', 'Redux(thunk, async thunk, toolkit)', 'Router', 'React Hook Form', 'NextJS'
-    ],
-    '🛜 Web': [
-      'Fetch', 'Axios', 'WebSocket'
-    ],
-    '⚙️ Tools': [
-      'Git', 'Webpack', 'Vite', 'Eslint', 'Storybook', 'Bitbucket', 'Jira'  
-    ],
-    '🗺️ Design': [
-      'Figma', 'Adobe tools', 'Protopie', 'UI-kit', 'Design system', 'CJM', 'JTBD'
-    ]
+    '🧠 JS': ['JavaScript (ES6+)', 'TS'],
+    '🎨 UI': ['HTML/CSS', 'SASS', 'Styled components', 'MUI'],
+    '🧰 Framework': ['React', 'Redux(thunk, async thunk, toolkit)', 'Router', 'React Hook Form', 'NextJS'],
+    '🛜 Web': ['Fetch', 'Axios', 'WebSocket'],
+    '⚙️ Tools': ['Git', 'Webpack', 'Vite', 'Eslint', 'Storybook', 'Bitbucket', 'Jira'],
+    '🗺️ Design': ['Figma', 'Adobe tools', 'Protopie', 'UI-kit', 'Design system', 'CJM', 'JTBD']
   },  
 
   experience: {
@@ -37,7 +25,8 @@ export default {
     '🏴‍☠️ UX/UI Design': '9+ years'
   },
 
-  education: '🎓 BS, Applied Computer Science'
-
+  education: {
+    '🎓 BS': 'Applied Computer Science'
+  }
 };
 ```
