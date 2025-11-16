@@ -7,6 +7,7 @@ export default {
 
   languages: [ 
     '🪩 JavaScript',
+    '🪩 TypeScript',
     '🇷🇺 Russian',
     '🇬🇧 English'
   ],
@@ -21,7 +22,7 @@ export default {
   },  
 
   experience: {
-    '💪 Frontend developer': '1+ years',
+    '💪 Frontend developer': '2+ years',
     '🏴‍☠️ UX/UI Design': '9+ years'
   },
 
